@@ -16,6 +16,8 @@ python -m venv /path/to/new/virtual/environment
 ```
 I do not attach the requirement.txt file here, because for different notebooks different packages and libraries are required. 
 
+Videos for the validation process might be found in the [video directory](/videos)
+
 ## Brief description
 
 During the project several tasks were completed. Each notebook contains one exact task solved. In order of increasing difficulty:
