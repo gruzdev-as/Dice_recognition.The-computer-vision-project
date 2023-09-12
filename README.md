@@ -1,6 +1,6 @@
 <p float="center">
-<img src="/GIFs/1.gif" width="25%" height="25%"/>
-<img src="/GIFs/6.gif" width="25%" height="25%"/>
+<img src="/GIFs/1.gif" width="40%" height="40%"/>
+<img src="/GIFs/6.gif" width="40%" height="40%"/>
 </p>
 
 # Dice-recognition.-The-computer-vision-project
@@ -37,9 +37,9 @@ The dataset is used: https://www.kaggle.com/datasets/ucffool/dice-d4-d6-d8-d10-d
 
 
 <p float="center">
-<img src="/GIFs/5.gif" width="25%" height="25%"/>
-<img src="/GIFs/6.gif" width="25%" height="25%"/>
-<img src="/GIFs/7.gif" width="25%" height="25%"/>
+<img src="/GIFs/5.gif" width="40%" height="40%"/>
+<img src="/GIFs/6.gif" width="40%" height="40%"/>
+<img src="/GIFs/7.gif" width="40%" height="40%"/>
 </p>
 
 Based on the results, I can conclude that the newest model perform way better than the old one. despite this fact it still has difficulties with recognition the difference between "5" and "6". In my humble opinion it's conneted with the fact that the dataset images differ from the images and videos I've made myself. Perhaps, the model is overfitted a little bit. Due to that facts I decided to make a task more complicated and try to create my own dataset 
@@ -51,9 +51,9 @@ The dataset is used: https://public.roboflow.com/object-detection/dice/2
 ![output1](https://github.com/gruzdev-as/Dice-recognition.-The-computer-vision-project/assets/75714678/5ef2a57c-cab9-4da9-b980-919edde28d24)
 
 <p float="left">
-<img src="/GIFs/1.gif" width="25%" height="25%"/>
-<img src="/GIFs/2.gif" width="25%" height="25%"/>
-<img src="/GIFs/3.gif" width="25%" height="25%"/>
+<img src="/GIFs/1.gif" width="40%" height="40%"/>
+<img src="/GIFs/2.gif" width="40%" height="40%"/>
+<img src="/GIFs/3.gif" width="40%" height="40%"/>
 </p>
 
 ## Conclusion 
