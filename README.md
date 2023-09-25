@@ -44,7 +44,11 @@ The dataset is used: https://www.kaggle.com/datasets/ucffool/dice-d4-d6-d8-d10-d
 <img src="/GIFs/7.gif" width="40%" height="40%"/>
 </p>
 
-Based on the results, I can conclude that the newest model perform way better than the old one. despite this fact it still has difficulties with recognition the difference between "5" and "6". In my humble opinion it's conneted with the fact that the dataset images differ from the images and videos I've made myself. Perhaps, the model is overfitted a little bit. Due to that facts I decided to make a task more complicated and try to create my own dataset 
+
+![Compare](https://github.com/gruzdev-as/Dice_recognition.The-computer-vision-project/assets/75714678/7415790d-2b51-41c9-af6b-faf5b59763d4)
+
+
+Based on the results, I can conclude that the newest model perform way better than the old one. despite this fact it still has difficulties with recognition the difference between "5" and "6" on the custom dataset. On the validation set, based on the confusion matrix data, results are rather the same. In my humble opinion it's connected with the fact that the dataset images differ from the images and videos I've made myself. Perhaps, the model is overfitted a little bit. Due to that facts I decided to make a task more complicated and try to create my own dataset 
 
 The dataset is used: https://public.roboflow.com/object-detection/dice/2
 
