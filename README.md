@@ -52,7 +52,7 @@ Based on the results, I can conclude that the newest model perform way better th
 
 The dataset is used: https://public.roboflow.com/object-detection/dice/2
 
-3. *D6DiceValueRecognitionWithNumbers.ipynb* contains the process of training a YOLOV8 model by ultralytics for solving an object-detection task similar to the previous one. This time dices had numbers on them instead of just dots. I didn't find the dataset in the net, so, I've made it myself. The dataset is used with the description and the methodology: https://universe.roboflow.com/test-pxksd/d6-dice-with-numbers-on-the-sides. The following results were achieved and described in detail inside the notebook:
+3. *D6DiceValueRecognitionWithNumbers.ipynb* contains the process of training a YOLOV8 model by ultralytics for solving an object-detection task similar to the previous one. This time dices had numbers on them instead of just dots. I didn't find the dataset in the internet, so, I've made it myself. The dataset was used with the description and the methodology is described: https://universe.roboflow.com/test-pxksd/d6-dice-with-numbers-on-the-sides. The following results were achieved and described in details inside the notebook:
 
 ![output1](https://github.com/gruzdev-as/Dice-recognition.-The-computer-vision-project/assets/75714678/5ef2a57c-cab9-4da9-b980-919edde28d24)
 
